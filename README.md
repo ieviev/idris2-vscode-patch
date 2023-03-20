@@ -10,3 +10,5 @@ Patch for [meraymond's idris vscode extension](https://github.com/meraymond2/idr
 - restart vscode
 - 👍
 
+the patch will be overridden if the extension is updated, so reapply it
+
