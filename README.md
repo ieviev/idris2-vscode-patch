@@ -6,9 +6,18 @@ Patch for [meraymond's idris vscode extension](https://github.com/meraymond2/idr
 
 #### installation
 
-- run `move-items.sh` (`move-items.ps1` on windows) 
+- right click the .vsix file in the vscode file explorer
+- click "Install Extension VSIX"
 - restart vscode
 - 👍
+
+![](_resources/vsix.gif)
+
+##### or alternatively:
+
+- run `move-items.sh` (`move-items.ps1` on windows) 
+- restart vscode
+- 👍👍
 
 the patch will be overridden if the extension is updated, so reapply it
 
