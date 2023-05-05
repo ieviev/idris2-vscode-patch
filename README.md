@@ -1,6 +1,6 @@
 # idris2-vscode-patch
 
-Patch for [meraymond's idris vscode extension](https://github.com/meraymond2/idris-ide-client) for module completions.
+Patch for [meraymond's idris vscode extension](https://github.com/meraymond2/idris-ide-client) for module completions and native Windows support.
 
 ![](_resources/idr.gif)
 
